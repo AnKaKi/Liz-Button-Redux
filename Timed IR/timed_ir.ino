@@ -1,3 +1,5 @@
+#include <Adafruit_ESP8266.h>
+
 #include <Wire.h>
 #include <ds3231.h>
 #include <IRremote.h>
