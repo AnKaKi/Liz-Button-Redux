@@ -105,12 +105,12 @@ void loop(){
      }
     }
     else{
-        delay(1000);
+       delay(1000);
     }
 
 }
 
-
+// This is where you change your codes to fit your TV
 void sendNumber(int n){
   if (n == 1){
     for (int i = 0; i < 3; i++) {
